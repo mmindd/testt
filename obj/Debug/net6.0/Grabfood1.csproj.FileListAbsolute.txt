@@ -1,0 +1,15 @@
+/Users/mmindd/Desktop/Grabfood1/bin/Debug/net6.0/Grabfood1
+/Users/mmindd/Desktop/Grabfood1/bin/Debug/net6.0/Grabfood1.deps.json
+/Users/mmindd/Desktop/Grabfood1/bin/Debug/net6.0/Grabfood1.runtimeconfig.json
+/Users/mmindd/Desktop/Grabfood1/bin/Debug/net6.0/Grabfood1.dll
+/Users/mmindd/Desktop/Grabfood1/bin/Debug/net6.0/Grabfood1.pdb
+/Users/mmindd/Desktop/Grabfood1/obj/Debug/net6.0/Grabfood1.csproj.AssemblyReference.cache
+/Users/mmindd/Desktop/Grabfood1/obj/Debug/net6.0/Grabfood1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmindd/Desktop/Grabfood1/obj/Debug/net6.0/Grabfood1.AssemblyInfoInputs.cache
+/Users/mmindd/Desktop/Grabfood1/obj/Debug/net6.0/Grabfood1.AssemblyInfo.cs
+/Users/mmindd/Desktop/Grabfood1/obj/Debug/net6.0/Grabfood1.csproj.CoreCompileInputs.cache
+/Users/mmindd/Desktop/Grabfood1/obj/Debug/net6.0/Grabfood1.dll
+/Users/mmindd/Desktop/Grabfood1/obj/Debug/net6.0/refint/Grabfood1.dll
+/Users/mmindd/Desktop/Grabfood1/obj/Debug/net6.0/Grabfood1.pdb
+/Users/mmindd/Desktop/Grabfood1/obj/Debug/net6.0/Grabfood1.genruntimeconfig.cache
+/Users/mmindd/Desktop/Grabfood1/obj/Debug/net6.0/ref/Grabfood1.dll
